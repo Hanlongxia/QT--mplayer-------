@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>核雕艺术家.png</file>
+        <file>上一首-01.png</file>
+        <file>下一首-01.png</file>
+        <file>显示(1).png</file>
+        <file>显示.png</file>
+        <file>音量.png</file>
+        <file>音量减少.png</file>
+        <file>暂停.png</file>
+        <file>关闭.png</file>
+        <file>播放.png</file>
+    </qresource>
+</RCC>
